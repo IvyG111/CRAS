@@ -53,8 +53,8 @@
 							<label>Gender: </label><br>
 							<select name="gender" id="gender" required>
 								<option>-- Select --</option>
-								<option value="m">Male</option>
-								<option value="f">Female</option>
+								<option value="m">1. Male</option>
+								<option value="f">2. Female</option>
 							</select>
 						</p>
 						<p>
